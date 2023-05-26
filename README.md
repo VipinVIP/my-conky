@@ -8,9 +8,9 @@ Just basic config files for my conky script.
 
 ### Instructions
 
-1. Font used are Anurati and Quicksand,available at the assets folder ( u need to install it )
-2. Copy `conky.conf` and `myluascript.lua` both to `~/.config/conky`
-3. Install and start conky.
+Run `install.sh` by `chmod +x install.sh && ./install.sh`
+
+- the script copies your current Conky config (if exists!) from `~/.config/conky` to `~/.config/conky-backup`
 
 ### Inspiration
 
